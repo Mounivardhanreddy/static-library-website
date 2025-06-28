@@ -26,7 +26,7 @@ static-library-website/
 ├── index.html
 ├── books.html
 ├── cart.html
-├── style.css
+├── top.html
 └── images/
 
 ## 📝 Notes
